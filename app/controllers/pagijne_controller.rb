@@ -1,0 +1,2 @@
+class PagijneController < ApplicationController
+end

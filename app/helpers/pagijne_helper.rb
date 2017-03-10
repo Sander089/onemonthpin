@@ -1,0 +1,2 @@
+module PagijneHelper
+end
